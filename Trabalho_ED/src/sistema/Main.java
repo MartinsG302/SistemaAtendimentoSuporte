@@ -6,7 +6,10 @@ import lista.Mensagem;
 public class Main {
 	public static void main(String[] args) {
 		ListaMensagens lista = new ListaMensagens();
-
+		
+		/*
+			============================== TESTE DE DEBUG =================================
+		 
 		System.out.println("Lista vazia: " + lista.estaVazia());
 		lista.listarTodas();
 
@@ -43,5 +46,7 @@ public class Main {
 		System.out.println("\nLista vazia: " + lista.estaVazia());
 		lista.adicionarMensagem(5, "Tecnico", "Nova mensagem apos esvaziar");
 		lista.listarTodas();
+		
+		*/
 	}
 }
