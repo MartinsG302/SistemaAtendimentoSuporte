@@ -75,7 +75,7 @@ public class Main {
 
 	static void mostrarOpcoes() {
 		System.out.println();
-		System.out.println("===== SISTEMA DE ATENDIMENTO E SUPORTE =====");
+		System.out.println("...===== SISTEMA DE ATENDIMENTO E SUPORTE =====...");
 		System.out.println("1  - Cadastrar cliente");
 		System.out.println("2  - Buscar cliente / consultar contrato");
 		System.out.println("3  - Remover cliente");
